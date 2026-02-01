@@ -1,0 +1,9 @@
+# Sample Employee Data (format: name,id,salary,hireDate)
+John Doe,101,75000.0,2023-01-15
+Jane Smith,102,68000.0,2023-03-22
+Bob Johnson,103,82000.0,2022-11-10
+Alice Brown,104,59000.0,2024-02-01
+Mike Wilson,105,72000.0,2023-07-30
+
+# Invalid line for testing error handling
+Invalid Data
